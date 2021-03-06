@@ -1,0 +1,7 @@
+Descripción:
+
+	Uso de pygame para crear juegos basicos en 2D. Se empleará como referencia el video de TechWithTim. (url: https://www.youtube.com/watch?v=jO6qQDNa2UY&t=4978s)
+
+	El 'pip install pygame' completado. Procedemos.
+
+	La idea es hacer un juego básico de naves (url).
